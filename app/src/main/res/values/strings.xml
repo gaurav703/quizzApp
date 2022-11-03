@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="quiz_app">Quiz App!</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="result">RESULT</string>
+</resources>
